@@ -80,17 +80,11 @@ My current goal is to **strengthen analytical thinking, improve technical depth,
 
 I’d love to connect with people from different countries who are passionate about:
 
-Data Science
-
-AI
-
-Python
-
-Human-centered technology
-
-Creative problem solving
-
-Learning in public
+* **Data Science**
+* **AI**
+* **Python**
+* **Human-centered technology**
+* **Creative problem solving**
 
 📍 **Tehran, Iran**
 
