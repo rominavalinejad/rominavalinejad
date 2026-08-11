@@ -19,24 +19,16 @@ That combination of engineering logic and artistic sensitivity is the foundation
 ## 🧠 About Me
 
 I’m deeply interested in:
-
-Philosophy
-
-Literature
-
-Psychology
-
-Human behavior
-
-Pattern recognition
-
-Visual storytelling
+* **Philosophy**
+* **Literature**
+* **Psychology**
+* **Human behavior**
+* **Pattern recognition**
+* **Visual storytelling**
 
 What fascinates me most is discovering the hidden structures behind decisions, systems, and behaviors.
-
 Why does a person make a particular choice?How can a process become more efficient?What patterns emerge when we observe enough data?
-
-These questions are what gradually pulled me toward the world of AI and intelligent systems.
+**These questions are what gradually pulled me toward the world of AI and intelligent systems.**
 
 ---
 
@@ -57,14 +49,14 @@ These questions are what gradually pulled me toward the world of AI and intellig
 
 Academic exposure includes:
 
-* Engineering Statistics
-* Operations Research (OR)
-* Optimization Techniques
-* Industrial Automation
-* Engineering Economics
-* Process & Resource Management
-* Programming Fundamentals
-* Ergonomics & Systems Analysis
+* **Engineering Statistics**
+* **Operations Research (OR)**
+* **Optimization Techniques**
+* **Industrial Automation**
+* **Engineering Economics**
+* **Process & Resource Management**
+* **Programming Fundamentals**
+* **Ergonomics & Systems Analysis**
 
 This background has given me a strong **analytical and systems-oriented approach** that I aim to apply in **data-driven and AI-related projects**.
 
