@@ -8,7 +8,35 @@ Industrial Engineering graduate currently building a strong foundation in **Data
 
 My focus is on **analyzing real-world problems, identifying patterns, and developing practical solutions that improve processes, support decision-making, and reduce repetitive work**.
 
-This GitHub profile serves as both a **professional portfolio** and a **public learning journey** as I continue growing toward a career in **Data Science and Artificial Intelligence**.
+I’m an Industrial Engineer currently growing toward Data Science and Artificial Intelligence through practical projects, curiosity, and continuous learning.
+
+My journey into technology did not start with code. Before learning Python, I worked in graphic design, which gave me a strong visual and human-centered perspective. Today, when I build something, I don’t only think about how it works — I think about how people experience it, understand it, and connect with it.
+
+That combination of engineering logic and artistic sensitivity is the foundation of everything I create.
+
+---
+
+## 🧠 About Me
+
+I’m deeply interested in:
+
+Philosophy
+
+Literature
+
+Psychology
+
+Human behavior
+
+Pattern recognition
+
+Visual storytelling
+
+What fascinates me most is discovering the hidden structures behind decisions, systems, and behaviors.
+
+Why does a person make a particular choice?How can a process become more efficient?What patterns emerge when we observe enough data?
+
+These questions are what gradually pulled me toward the world of AI and intelligent systems.
 
 ---
 
@@ -42,31 +70,6 @@ This background has given me a strong **analytical and systems-oriented approach
 
 ---
 
-## 🛠️ Technical Skills
-
-### Current
-
-* **Python**
-* **Git & GitHub**
-* **Advanced Excel**
-
-### Currently Learning
-
-* **SQL** *(early-stage learning)*
-
-I prefer to present only the skills that I can **confidently apply in practice**, while continuously expanding my knowledge through hands-on projects and self-directed learning.
-
----
-
-## 📊 GitHub Journey
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rominavalinejad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rominavalinejad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
-</p>
-
----
-
 ## 🌱 Currently Exploring
 
 I’m particularly interested in:
@@ -83,7 +86,19 @@ My current goal is to **strengthen analytical thinking, improve technical depth,
 
 ## 🤝 Let’s Connect
 
-I’m always open to connecting with people who are interested in **Data Science, AI, Python, analytics, and practical problem solving**.
+I’d love to connect with people from different countries who are passionate about:
+
+Data Science
+
+AI
+
+Python
+
+Human-centered technology
+
+Creative problem solving
+
+Learning in public
 
 📍 **Tehran, Iran**
 
