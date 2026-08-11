@@ -60,9 +60,10 @@ I prefer to present only the skills that I can **confidently apply in practice**
 
 ## 📊 GitHub Journey
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rominavalinejad\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rominavalinejad\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0D1117)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rominavalinejad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rominavalinejad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
+</p>
 
 ---
 
