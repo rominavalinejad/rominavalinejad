@@ -85,9 +85,6 @@ I’d love to connect with people from different countries who are passionate ab
 * **Python**
 * **Human-centered technology**
 * **Creative problem solving**
-
-📍 **Tehran, Iran**
-
 ---
 
 > *Building practical skills today for the intelligent systems of tomorrow.*
