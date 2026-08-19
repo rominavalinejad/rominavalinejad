@@ -19,9 +19,10 @@ That combination of engineering logic and artistic sensitivity is the foundation
 ## 🧠 About Me
 
 I’m deeply interested in:
+* **Mathematics**
 * **Philosophy**
-* **Literature**
 * **Psychology**
+* **Literature**
 * **Human behavior**
 * **Pattern recognition**
 * **Visual storytelling**
